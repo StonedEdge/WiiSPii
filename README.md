@@ -13,3 +13,14 @@ The PCB is a 4 layer PCB ordered from JLCPCB fab house in china. The PCB can als
 
 ### BOM (Bill of Materials) 
 These are the required components you will need to build the Wii SPii. This includes the PCB itself, PCB components and other peripherals required to make the console. 
+
+### Contributors 
+I'd like to thank these people in no particular order for the awesome work you have done to help me complete this project. A link to their GitHub repositories can be found below. 
+
+* Dmcke5 for helping me re-model the WiiSPii for CNC machining, CNC machining the case out of acrylic and of course the hours of phone calls back and forth over the past few months. Without you this project would not have happened!
+* [Gman]() for providing the community with countless hours of research and sharing his code to allow me to make some small modifications to the LED interface and audio amplifier. 
+* [Aurelio]() for GC+ 2.0 and BBloader 
+* robertlong13 for assisting in the PIC16LF15324 modifications 
+* [JeffLongo]() for his STUSB4500 code 
+* YveltalGriffin 
+* GingerOfOz 
