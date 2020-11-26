@@ -19,8 +19,8 @@ I'd like to thank these people in no particular order for the awesome work you h
 
 * Dmcke5 for helping me re-model the WiiSPii for CNC machining, CNC machining the case out of acrylic and of course the hours of phone calls back and forth over the past few months. Without you this project would not have happened!
 * [Gman]() for providing the community with countless hours of research and sharing his code to allow me to make some small modifications to the LED interface and audio amplifier. 
-* [Aurelio]() for GC+ 2.0 and BBloader 
-* robertlong13 for assisting in the PIC16LF15324 modifications 
-* [JeffLongo]() for his STUSB4500 code 
-* YveltalGriffin 
-* GingerOfOz 
+* [Aurelio]() for GC+ 2.0 and BBloader contributions and updates
+* robertlong13 for assisting in the PIC16LF15324 ADC modifications for using 10K pot for volume control over i2c
+* [JeffLongo]() for his STUSB4500 code revisions 
+* YveltalGriffin for suggesting various hardware changes and reviews to PCB/schematics 
+* GingerOfOz for WAH
