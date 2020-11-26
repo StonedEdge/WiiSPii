@@ -20,10 +20,10 @@ These are the required components you will need to build the Wii SPii. This incl
 ### Contributors 
 I'd like to thank these people in no particular order for the awesome work you have done to help me complete this project. A link to their GitHub repositories can be found below. 
 
-* Dmcke5 for helping me re-model the WiiSPii for CNC machining, CNC machining the case out of acrylic and of course the hours of phone calls back and forth over the past few months. Without you this project would not have happened!
-* [Gman](https://github.com/Gmanmodz) for providing the community with countless hours of research and sharing his code to allow me to make some small modifications to the LED interface and audio amplifier. 
+* Dmcke5 for helping me re-model the WiiSPii for CNC machining, CNC machining the case out of acrylic and of course the hours and hours of phone calls back and forth over the past few months. Thanks for putting up with my numerous questions on CNC
+* [Gman](https://github.com/Gmanmodz) for providing the community with countless hours of research and sharing his code to allow me to make some small modifications to the LED interface and audio amplifier
 * [Aurelio](https://github.com/Aurelio92) for GC+ 2.0 and BBloader Wii GUI contributions and updates
 * robertlong13 for assisting in the PIC16LF15324 ADC modifications for using 10K pot for volume control over i2c
 * [JeffLongo](https://github.com/jefflongo) for his STUSB4500 code revisions 
 * YveltalGriffin for suggesting various hardware changes and reviews to PCB/schematics 
-* GingerOfOz for WAH
+* GingerOfOz for initial EAGLE ports and WAH
