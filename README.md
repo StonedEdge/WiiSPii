@@ -3,7 +3,7 @@
 
 ## Description
 The Wii SPii is an open source, portable Wii project by StonedEdge from the BitBuilt forums. It uses real Wii hardware with no emulation and lasts around 2.5 hours on a full charge. This repository includes includes code from several contributors to the hobby (Aurelio, Gmanmodz and Jefflongo), 
-CAD files and gerbers for main PCB. I plan to include a guide for assembly here at a later stage. The main build worklog can be found [here:](https://bitbuilt.net/forums/index.php?threads/the-wii-spii.3347/)
+CAD files, gerbers for main PCB ordering and a BOM of parts for assembly. I plan to include a guide for assembly here at a later stage. The main build worklog can be found [here:](https://bitbuilt.net/forums/index.php?threads/the-wii-spii.3347/)
 
 ### CAD
 The CAD files for the Wii SPii project can be found here. I have uploaded both the .STEP and .STL files so that people may easily make changes to the model in their CAD software of choice, or simply print the case on any 3D printer. Prototypes were made on the Prusa i3 MK3s FDM printer and the final design was completed on a 3-axis CNC machine in acrylic. 
